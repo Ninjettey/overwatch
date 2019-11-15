@@ -19,3 +19,17 @@ p{
     height: 100px;
     width: 31%;
 }
+.logo {
+    height: 60vh;
+    width: 98vw;
+}
+li{
+    float:right;
+    margin:10px;
+    list-style-type: none;
+}
+a{
+    color: green;
+    text-decoration: none;
+    font-size: 20px;
+}
